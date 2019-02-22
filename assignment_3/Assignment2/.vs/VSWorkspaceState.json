@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assignment2",
+    "\\Assignment2\\Controllers",
+    "\\Assignment2\\EntityModels",
+    "\\Assignment2\\Models",
+    "\\Assignment2\\Views",
+    "\\Assignment2\\Views\\Employees",
+    "\\Assignment2\\Views\\Home",
+    "\\Assignment2\\Views\\Tracks"
+  ],
+  "SelectedNode": "\\Assignment2\\Controllers\\TracksController.cs",
+  "PreviewInSolutionExplorer": false
+}
